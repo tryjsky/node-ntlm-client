@@ -1,7 +1,7 @@
 {
   "name": "ntlm-client",
-  "version": "0.1.2",
-  "description": "A node.js NTLM client with support for NTLM and NTLMv2 authentication",
+  "version": "1.0.0",
+  "description": "A node.js NTLM client with support for NTLM and NTLMv2 authentication.Base Nico Haller(nico.haller@gmail.com)",
   "keywords": [
     "ntlm",
     "ntlmv2",
@@ -10,8 +10,8 @@
   ],
   "main": "./lib/index.js",
   "author": {
-    "name": "Nico Haller",
-    "email": "nico.haller@gmail.com"
+    "name": "super king",
+    "email": "2808949242@qq.com"
   },
   "repository": {
     "type": "git",
