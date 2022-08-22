@@ -1,4 +1,4 @@
-# Base project  https://github.com/gautamsi/node-ntlm-client(Nico Haller nico.haller@gmail.com)
+# Base project  https://github.com/gautamsi/node-ntlm-client (Nico Haller nico.haller@gmail.com)
 # ntlm-client
 
 A node.js NTLM client with support for NTLM and NTLMv2 authentication
