@@ -1,7 +1,7 @@
 {
   "name": "ntlm2",
-  "version": "0.1.4",
-  "description": "A node.js NTLM client with support for NTLM and NTLMv2 authentication.Base Nico Haller(nico.haller@gmail.com)",
+  "version": "0.1.6",
+  "description": "A node.js NTLM client with support for NTLM and NTLMv2 authentication.Base project  https://github.com/gautamsi/node-ntlm-client(Nico Haller nico.haller@gmail.com)",
   "keywords": [
     "ntlm",
     "ntlmv2",
@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clncln1/node-ntlm-client.git"
+    "url": "https://github.com/v9u/node-ntlm-client.git"
   },
   "bugs": {
-    "url": "https://github.com/clncln1/node-ntlm-client/issues"
+    "url": "https://github.com/v9u/node-ntlm-client/issues"
   },
   "engines": {
     "node": ">=4.0.0"
