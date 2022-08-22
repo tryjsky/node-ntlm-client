@@ -4,7 +4,7 @@
 A node.js NTLM client with support for NTLM and NTLMv2 authentication
 
 ```
-npm install ntlm-client
+npm install ntlm2
 ```
 
 ## API
