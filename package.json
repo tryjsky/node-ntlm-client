@@ -1,5 +1,5 @@
 {
-  "name": "@v9u/ntlm",
+  "name": "ntlm2",
   "version": "0.1.4",
   "description": "A node.js NTLM client with support for NTLM and NTLMv2 authentication.Base Nico Haller(nico.haller@gmail.com)",
   "keywords": [
