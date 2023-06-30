@@ -1,7 +1,7 @@
 {
   "name": "ntlm2",
-  "version": "0.3.0",
-  "description": "A node.js NTLM client with support for NTLM and NTLMv2 authentication.Base project  https://github.com/gautamsi/node-ntlm-client",
+  "version": "0.3.1",
+  "description": "ntlm2 with Node v17 patch.",
   "keywords": [
     "ntlm",
     "ntlmv2",
@@ -10,18 +10,20 @@
   ],
   "main": "./lib/index.js",
   "author": {
-    "name": "v9u",
-    "email": "2808949242@qq.com"
+    "name": "Y., Ryota",
+    "email": "tryjsky@gmail.com",
+    "url": "https://github.com/tryjsky"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/v9u/node-ntlm-client.git"
+    "url": "https://github.com/tryjsky/node-ntlm-client.git"
   },
   "bugs": {
-    "url": "https://github.com/v9u/node-ntlm-client/issues"
+    "url": "https://github.com/tryjsky/node-ntlm-client/issues"
   },
   "license": "MIT",
   "dependencies": {
-    "extend": "^3.0.0"
+    "extend": "^3.0.0",
+    "js-md4": "^0.3.2"
   }
 }
