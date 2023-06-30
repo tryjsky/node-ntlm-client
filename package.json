@@ -1,5 +1,5 @@
 {
-  "name": "ntlm2",
+  "name": "@tryjsky/ntlm2",
   "version": "0.3.1",
   "description": "ntlm2 with Node v17 patch.",
   "keywords": [
