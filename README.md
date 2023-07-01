@@ -1,14 +1,14 @@
-# Diff
-
-[ntlm2](https://github.com/v9u/node-ntlm-client) with Node v17 patch.
-
 # ntlm-client
 
 A node.js NTLM client with support for NTLM and NTLMv2 authentication
 
 ```
-npm install ntlm2
+npm install @tryjsky/ntlm2
 ```
+
+## Differences from the original repository
+
+[ntlm2](https://github.com/v9u/node-ntlm-client) with Node v17 patch.
 
 ## API
 
